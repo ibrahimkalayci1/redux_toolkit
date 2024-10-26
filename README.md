@@ -1,16 +1,28 @@
- ## kurulum
-npm install react-redux
- npm install @reduxjs/toolkit
- store ve reducer oluştur
+<h1>toolkit crud with React - Redux Toolkit </h1>
 
- ## redux toolkit
- klasik redux a göre daha az kod yazarak aynı sonucu elde ederizs
- dahili olarak thunk içinde gelyr
- state yonetmek daha olay
- devtool eklentisi saesnde proje gelştirirken store u reducer ı dispatch een aksiynları izleyeblyrz
+<hr>
 
- ### slice
- redux toolkit içerisinde yer alan tek bir noktada hem reducerları hem de actionları tanımlamamızı saglayan yapıdır
+<h2>Technologies Used</h2>
 
- klasik reduxta aksyn ve reducerları ayrı tanmluyrdk.
- toolkit ile daha z kod yzarak ikisinide aynı noktada yapablyrz# redux_toolkit
+<p>
+
+# Libraries
+
+</br></br>
+
+- react-router-dom
+  </br>
+- react-redux
+  </br>
+- react-bootstrap
+  </br>
+- uuid
+  </br>
+- @reduxjs/toolkit
+  </br>
+![sayac-crud](https://github.com/user-attachments/assets/78ca48e2-9d02-4e42-9078-c5b037f2418c)
+
+
+  </br> Responsive </p>
+
+![](/public/gif/screen-1.gif)
